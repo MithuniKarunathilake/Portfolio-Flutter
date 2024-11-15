@@ -46,6 +46,8 @@ class _HomePageState extends State<HomePage> {
               const MainDesktop() else
               const MainMobile(),
 
+              Text(""),
+
               //Skills
               Container(
                 height: 500,
